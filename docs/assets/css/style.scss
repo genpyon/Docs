@@ -1,0 +1,11 @@
+@import "{{ site.theme }}";
+
+/* ダークテーマ用の上書き */
+body {
+  background-color: #1e1e1e;
+  color: #dcdcdc;
+}
+
+a {
+  color: #66ccff;
+}

@@ -1,3 +1,8 @@
-theme: jekyll-theme-minimal   # テーマを指定
-title: My Docs                # サイトのタイトル
-description: これはGitHub Pagesで作ったドキュメントです
+theme: jekyll-theme-minimal
+title: Docs
+description: ダークテーマ実験中
+markdown: kramdown
+
+# 自作CSSを読み込み
+sass:
+  style: compressed
