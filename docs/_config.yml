@@ -1,0 +1,3 @@
+theme: jekyll-theme-minimal   # テーマを指定
+title: My Docs                # サイトのタイトル
+description: これはGitHub Pagesで作ったドキュメントです
