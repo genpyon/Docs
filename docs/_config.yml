@@ -1,8 +1,9 @@
-theme: jekyll-theme-minimal
+remote_theme: just-the-docs/just-the-docs
 title: Docs
 description: ダークテーマ実験中
 markdown: kramdown
+color_scheme: dark   # デフォルトをダークにする
 
-# 自作CSSを読み込み
-sass:
-  style: compressed
+# # 自作CSSを読み込み
+# sass:
+#   style: compressed
